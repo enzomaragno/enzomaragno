@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **enzovmaragno@gmail.com**
 
-- 📄 Experiences [Current doing Discord Bots to improve my experience with NodeJs and MongoDB](Current doing Discord Bots to improve my experience with NodeJs and MongoDB)
+- 📄 Experiences Current doing Discord Bots to improve my experience with NodeJs and MongoDB
 
 - ⚡ Age **16**
 

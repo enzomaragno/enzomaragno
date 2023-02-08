@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
-<h3 align="center">A passionate learning to turn a FullStack developer from Brazil</h3>
+<h3 align="center">A young man passionate about learning to become a Full Stack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enzomaragno&label=Profile%20views&color=0e75b6&style=flat" alt="enzomaragno" /> </p>
 

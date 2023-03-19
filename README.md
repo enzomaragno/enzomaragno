@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Maragno Development](https://discord.gg/TBsVg4effH)
 
-- 🌱 I’m currently learning **Javascript, HTML, NodeJs, MongoDB**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 

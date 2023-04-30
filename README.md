@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Maragno Development](https://discord.gg/TBsVg4effH)
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB and GIT**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
-- 📝 I Studying in OneBitCode FullStack JavaScript (Current studying there)
+- 📝 I Studying in OneBitCode FullStack JavaScript
 
 - 🌎 Languages **Portuguese(pt_br Native Language), English (Advanced), Spanish (Basic)**
 

@@ -18,6 +18,12 @@
 
 - ⚡ Age **16**
 
+ 
+<h3 align ="center">Techinical Courses Certificates</h3>
+<a href="html5-OneBitCode.pdf">HTML</a>
+<a href="css certificado.pdf">CSS</a>
+<a href="JavaScript-Codifique-Usp.pdf">JavaScript</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/enzo.maragno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enzo.maragno" height="30" width="40" /></a>

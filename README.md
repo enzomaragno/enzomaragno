@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enzomaragno&label=Profile%20views&color=0e75b6&style=flat" alt="enzomaragno" /> </p>
 
-- 🔭 I’m currently working on [Maragno Development](https://discord.gg/TBsVg4effH)
-
 - 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB and GIT**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)

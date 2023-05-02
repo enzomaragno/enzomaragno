@@ -36,10 +36,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzomaragno&show_icons=true&locale=en" alt="enzomaragno" /></p>
 
-<style>
-a:hover{
-color: black;
-}
-</style>
+
 
 

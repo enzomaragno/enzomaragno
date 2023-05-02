@@ -19,7 +19,7 @@
 - ⚡ Age **16**
 
  
-<h3 align ="left">Techinical Courses Certificates</h3>
+<h3 align ="left">Technical course certificates</h3>
 <a href="html5-OneBitCode.pdf">HTML</a>
 <a href="css certificado.pdf">CSS</a>
 <a href="JavaScript-Codifique-Usp.pdf">JavaScript</a>

@@ -33,7 +33,9 @@
 
 <h3 aling="left">Customers</h3>
   <a href="https://discord.gg/deluxe">Deluxe Roleplay</a>
+  <br>
   <a href="https://discord.gg/c6Q8NZRdXg">R9 Roleplay</a>
+  <br>
   <a href="https://discord.gg/UsgzfhefUz">Apollo</a>
 
 

@@ -6,15 +6,15 @@
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
-- 📝 I Studying in OneBitCode FullStack JavaScript
+- 📝 Studying in: FullStack JavaScript
 
-- 🌎 Languages **Portuguese(pt_br Native Language), English (Advanced), Spanish (Basic)**
+- 🌎 Languages: **Portuguese(pt_br Native Language), English (Advanced), Spanish (Basic)**
 
-- 📫 How to reach me **enzovmaragno@gmail.com**
+- 📫 Reach Me: **enzovmaragno@gmail.com**
 
-- 📄 Experiences Current doing Discord Bots to improve my experience with NodeJs and MongoDB
+- 📄 Experiences: Freelancing Chatbots (discord)
 
-- ⚡ Age **16**
+- ⚡ Age: **16**
 
  
 <h3 align ="left">Technical course certificates</h3>
@@ -30,6 +30,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+<h3 aling="left">Customers</h3>
+  <a href="https://discord.gg/deluxe">Deluxe Roleplay</a>
+  <a href="https://discord.gg/c6Q8NZRdXg">R9 Roleplay</a>
+  <a href="https://discord.gg/UsgzfhefUz">Apollo</a>
+
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzomaragno&show_icons=true&locale=en" alt="enzomaragno" /></p>

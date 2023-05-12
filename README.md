@@ -8,7 +8,7 @@
 
 - 📝 Studying in: FullStack JavaScript
 
-- 🌎 Languages: **Portuguese(pt_br Native Language), English (Advanced), Spanish (Basic)**
+- 🌎 Languages: **Portuguese(pt_br Native Language), English (Advanced)**
 
 - 📫 Reach Me: **enzovmaragno@gmail.com**
 

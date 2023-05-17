@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
-- 📝 Studying in: FullStack JavaScript
+- 📝 Studying in: FullStack JavaScript OneBitCode
 
 - 🌎 Languages: **Portuguese(pt_br Native Language), English (Advanced)**
 

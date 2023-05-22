@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzomaragno&label=Profile%20views&color=0e75b6&style=flat" alt="enzomaragno" /> </p>
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB and GIT, GITHUB, FIGMA**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB GIT, GITHUB, and FIGMA**
 
 - 👨‍💻 [My Website](https://maragnodev.vercel.app)
 

@@ -6,7 +6,7 @@
 
 - 👨‍💻 [My Website](https://maragnodev.vercel.app)
 
-- 📝 Studying in: FullStack JavaScript OneBitCode
+- 📝 Studying in: [FullStack JavaScript OneBitCode](https://onebitcode.com)
 
 - 🌎 Languages: **Portuguese(pt_br Native Language), English (Advanced)**
 

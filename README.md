@@ -2,9 +2,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enzomaragno&label=Profile%20views&color=0e75b6&style=flat" alt="enzomaragno" /> </p>
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB and GIT**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB and GIT, GITHUB, FIGMA**
 
-- 👨‍💻 All of my projects are available at [Soon](Soon)
+- 👨‍💻 [My Website](https://maragnodev.vercel.app)
 
 - 📝 Studying in: FullStack JavaScript OneBitCode
 
@@ -18,9 +18,9 @@
 
  
 <h3 align ="left">Technical course certificates</h3>
-<a href="html5-OneBitCode.pdf">HTML</a>
-<a href="css certificado.pdf">CSS</a>
-<a href="css-moderno.pdf">CSS Moderno</a>
+<a href="html5-OneBitCode.pdf">HTML</a> </br>
+<a href="css certificado.pdf">CSS</a>  </br>
+<a href="css-moderno.pdf">CSS Moderno</a>  </br>
 <a href="JavaScript-Codifique-Usp.pdf">JavaScript</a>
 
 <h3 align="left">Connect with me:</h3>

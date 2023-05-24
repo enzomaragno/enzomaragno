@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, NodeJs, MongoDB GIT, GITHUB, and FIGMA**
 
-- 👨‍💻 [My Website](https://maragnodev.vercel.app)
+- 👨‍💻 [My Website](https://maragno.dev)
 
 - 📝 Studying in: [FullStack JavaScript OneBitCode](https://onebitcode.com)
 

@@ -12,7 +12,7 @@
 
 - 📫 Reach Me: **enzovmaragno@gmail.com**
 
-- 📄 Experiences: Freelancing Chatbots (discord), NLW by RocketSeat, currently with more than 10 bots actives in Discord
+- 📄 Experiences: Freelancing Chatbots for Discord (+15 bots created), participated in NLW by RocketSeat, studying Web Development (HTML, CSS and JS) in OneBitCode.
 
 - ⚡ Age: **16**
 

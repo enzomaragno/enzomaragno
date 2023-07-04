@@ -21,6 +21,8 @@
 <a href="css certificado.pdf">CSS</a>  </br>
 <a href="css-moderno.pdf">CSS Moderno</a>  </br>
 <a href="JavaScript-Codifique-Usp.pdf">JavaScript</a>
+<a href="html_css_js_site_simples_bradesco.pdf">Criando um site com HTML, CSS e Js</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

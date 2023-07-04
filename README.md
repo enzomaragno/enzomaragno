@@ -17,7 +17,7 @@
 
  
 <h3 align ="left">Technical course certificates</h3>
-<a href="html_basico_bradesco">HTML Básico</a> </br>
+<a href="html_basico_bradesco.pdf">HTML Básico</a> </br>
 <a href="html5-OneBitCode.pdf">HTML</a> </br>
 <a href="css certificado.pdf">CSS</a>  </br>
 <a href="css-moderno.pdf">CSS Moderno</a>  </br>

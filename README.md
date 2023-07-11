@@ -14,7 +14,8 @@
 
 - 📄 Experiences: Freelancing Chatbots for Discord (+15 bots created), participated in NLW by RocketSeat, studying Web Development (HTML, CSS and JS) in OneBitCode.
 
-
+<h3 align="left"> Discord systems already made</h3>
+<a href="https://www.youtube.com/watch?v=2RZWPQbxpPI"> Automatic Allowlist</a> </br>
  
 <h3 align ="left">Technical course certificates</h3>
 <a href="html_basico_bradesco.pdf">HTML Básico Bradesco</a> </br>

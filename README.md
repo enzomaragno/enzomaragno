@@ -16,7 +16,12 @@
 
 <h3 align="left"> Discord systems already made</h3>
 <a href="https://www.youtube.com/watch?v=2RZWPQbxpPI"> Automatic Allowlist</a> </br>
- 
+ <a href="https://youtu.be/SAb4lIXqRE0">Ticket (Customer Support)</a> </br>
+<a href="https://www.youtube.com/watch?v=NnU9U_WkuJE">Register</a> </br>
+<a href="https://www.youtube.com/watch?v=QNWhBzV0pWU">Moderation Commands</a> </br>
+<a href="https://www.youtube.com/watch?v=FagN_wJkvXM">Manual Allowlist</a> </br>
+
+
 <h3 align ="left">Technical course certificates</h3>
 <a href="html_basico_bradesco.pdf">HTML Básico Bradesco</a> </br>
 <a href="html_basico_bradesco.pdf">HTML Avançado Bradesco</a> </br>

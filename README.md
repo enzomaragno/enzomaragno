@@ -12,14 +12,7 @@
 
 - 📫 Reach Me: **enzovmaragno@gmail.com**
 
-- 📄 Experiences: Freelancing Chatbots for Discord (+15 bots created), participated in NLW by RocketSeat, studying Web Development (HTML, CSS and JS) in OneBitCode.
-
-<h3 align="left"> Discord systems already made</h3>
-<a href="https://www.youtube.com/watch?v=2RZWPQbxpPI"> Automatic Allowlist</a> </br>
- <a href="https://youtu.be/SAb4lIXqRE0">Ticket (Customer Support)</a> </br>
-<a href="https://www.youtube.com/watch?v=NnU9U_WkuJE">Register</a> </br>
-<a href="https://www.youtube.com/watch?v=QNWhBzV0pWU">Moderation Commands</a> </br>
-<a href="https://www.youtube.com/watch?v=FagN_wJkvXM">Manual Allowlist</a> </br>
+- 📄 Experiences: Freelancing Chatbots for Discord (+100 bots created), participated in NLW by RocketSeat, studying Web Development (HTML, CSS and JS) in OneBitCode.
 
 
 <h3 align ="left">Technical course certificates</h3>
